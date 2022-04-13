@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. The framework allows six more dimentions other than the 4 x 4, those are 3 x 3, 5 x 5, 6 x 6, 7 x 7, 8 x 8 and 9 x 9.
+1. The game is been represented in two dimentional array.
+2. The fucntion which is called to greet the player at the starting is "greet()".
+3. Functions need to be implemented are init(), draw(), move(), won().
